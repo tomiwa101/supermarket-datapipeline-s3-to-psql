@@ -1,6 +1,6 @@
 # supermarket-datapipeline-s3-to-psql - developed with Docker
 
-This data pipeline app shows a simple user profile app set up using 
+This data pipeline pulls data from a data lake into an analytical store for further analysis 
 - s3 as data lake
 - load.py for etl to move the data to RDMS
 - pgdatabase for data storage
